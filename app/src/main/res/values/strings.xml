@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">bai8</string>
+    <string name="ttn">Thông tin cá nhân</string>
+    <string name="bangcap">Bằng cấp</string>
+    <string name="trungcap">Trung cấp</string>
+    <string name="caodang">Cao đẳng</string>
+    <string name="daihoc">Đại học</string>
+    <string name="sothich">Sở thích</string>
+    <string name="docbao">Đọc báo</string>
+    <string name="docsach">Đọc sách</string>
+    <string name="doccoding">Đọc coding</string>
+    <string name="ttbs">Thông tin bổ sung</string>
+    <string name="gui">Gửi thông tin</string>
+    <string name="hoten">Họ tên</string>
+    <string name="cmnd">CMND</string>
+    <string name="xhn">Xin hãy nhập thông tin bổ sung</string>
+    <string name="xhten">Xin hãy nhập thông tin bổ sung</string>
+    <string name="xhcmnd">Xin hãy nhập thông tin bổ sung</string>
+</resources>
